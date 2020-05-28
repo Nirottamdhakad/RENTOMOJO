@@ -1,0 +1,19 @@
+.body_1 {
+  background-color: red;
+}
+.container {
+  margin-top: 50px;
+}
+.contact_2 {
+  border: 2px solid black;
+  margin-left: 380px;
+  margin-right: 480px;
+  margin-top: 100px;
+  padding: 10px;
+}
+.fas {
+  margin-left: 400px;
+}
+.image_put {
+  display: none;
+}
